@@ -31,7 +31,10 @@ Se abrirá la pantalla de progreso.
 
 ## 🔄 Paso 4 – Reinicio del juego
 Cuando finalice la descarga, verás el mensaje de confirmación.  
-✅ Elegí **Yes, close the game** para reiniciar Minecraft.  
+
+⚠️ Para evitar errores, **NO elijas “Yes, close the game”**.  
+👉 Seleccioná **“No, back to the game”** y cerrá Minecraft de la forma habitual desde el menú o el launcher.  
+
 Luego volvé a abrir el launcher y conectate al servidor: ¡ya estarás sincronizado! 🎮
 
 ![Paso 4 – Reinicio después de la descarga](images/paso4.png)
